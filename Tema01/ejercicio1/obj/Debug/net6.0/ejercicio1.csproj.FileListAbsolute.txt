@@ -1,0 +1,15 @@
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ejercicio1
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ejercicio1.deps.json
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ejercicio1.runtimeconfig.json
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ejercicio1.dll
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ref/ejercicio1.dll
+/home/raul/repos/c/Tema01/ejercicio1/bin/Debug/net6.0/ejercicio1.pdb
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.AssemblyReference.cache
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfoInputs.cache
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfo.cs
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.CoreCompileInputs.cache
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.dll
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ref/ejercicio1.dll
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.pdb
+/home/raul/repos/c/Tema01/ejercicio1/obj/Debug/net6.0/ejercicio1.genruntimeconfig.cache
